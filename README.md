@@ -179,12 +179,6 @@ Feel free to fork this repository and contribute by submitting pull requests. Fo
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## **Contact**
 
 For further questions or collaborations, contact:
